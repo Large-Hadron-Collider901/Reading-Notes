@@ -16,13 +16,13 @@ Growth Mindset is the idea that intellegence and talent are not fixed traits, an
 ### Obstacles
 -Learning how to deal with challenges in a healthy, productive way is also essential to keeping a growth mindset<br>
 -When we are faced with obstacles, it can be easy to let ourselves become distracted from what's really important<br>
--In Zen and the Art of Motorcycle Maintenance, Robert Persig talks about the “gumption trap”: > the phenomenon of knowing what needs to be done, but lacking the motivation to do it<br>
+-In Zen and the Art of Motorcycle Maintenance, Robert Persig talks about the <strong>“gumption trap”:</strong> <em>the phenomenon of knowing what needs to be done, but lacking the motivation to do it</em><br>
 -One way we can overcome getting stuck in the "gumption trap" is to walk away from the task and come back when you're feeling more inspired<br>
 
 ### Effort
--In order to truly learn and progress at something, putting in effort is key!<br>
+-In order to truly learn and progress at something, putting in effort is <strong>key!</strong><br>
 -Sometimes, putting in your best effort can feel exhausting and it can be easy to give in to temptation and self gratification (procrastination, sleeping in)<br>
--One way to overcome this, is to make a consious effort to think about the growth mindset<br>
+-One way to overcome this, is to make a <em>consious</em> effort to think about the growth mindset<br>
 -Think about the bigger picture. Consider your goals, hopes, and dreams for your future to remind yourself why you do the things you do, even if it is challenging<br>
 -Think about how much better you feel when you are actively working towards those goals to motivate yourself to put in your best effort!<br>
 
