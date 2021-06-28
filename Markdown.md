@@ -19,7 +19,7 @@ Here are some types of Syntax that can be used on Github:
 * Images: Add images using this format [alt text here] (image url here)
 * Links: Cope and paste the link and it will automatically format, or use this format [Website name here] {Website URL here)
 * Blockquotes: Use the '>' symbol to format quotes
-As Jesus once said: > As a man thinketh in his heart, > so shall be!
+As Jesus once said:> As a man thinketh in his heart, > so shall be!
 * Inline Code: I think you should use an `<addr>` element here instead.
 
   
