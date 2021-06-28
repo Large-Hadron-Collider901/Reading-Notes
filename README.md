@@ -5,7 +5,7 @@ Growth Mindset is the idea that intellegence and talent are not fixed traits, an
 
 
 ### Challenges
--The way we address challenges is a really important part of maintaining a growth mindset
+-The way we address challenges is a really important part of maintaining a growth mindset<br>
 -When we are frustrated, it's easy to get stuck in a fixed mindset 
 -A great way to overcome getting stuck in a fixed mindset is to reconginze the signs (giving up, avoiding the problem, telling myself the task at hand is impossible, giving up)
 -Take a step back from the task at hand, give yourself time to breathe and walk through the problem again when you feel ready
