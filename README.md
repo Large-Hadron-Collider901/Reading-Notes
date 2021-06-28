@@ -1,4 +1,4 @@
-# What is Growth Mindet?
+# What is Growth Mindset?
 Growth Mindset is the idea that intellegence and talent are not fixed traits, and that with enough practice, effort, and perserverance, a person can really achieve anything they set their mind to!
 
 ## Maintaining a Growth Mindset
