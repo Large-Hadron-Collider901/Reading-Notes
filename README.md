@@ -40,5 +40,3 @@
 -Where a fixed mindset leads you to see the success of others as a threat, the growth mindset encourages you to see the success of coworkers as an inspiration <br>
 -Choosing to be more transparent in conversations with coworkers can help us to adopt the growth mindset concepts to influence peer interactions </br>
 
-& dragonfly
-'dragonfly'
