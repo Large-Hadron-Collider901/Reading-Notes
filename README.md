@@ -16,7 +16,7 @@ Growth Mindset is the idea that intellegence and talent are not fixed traits, an
 ### Obstacles
 -Learning how to deal with challenges in a healthy, productive way is also essential to keeping a growth mindset<br>
 -When we are faced with obstacles, it can be easy to let ourselves become distracted from what's really important<br>
--In Zen and the Art of Motorcycle Maintenance, Robert Persig talks about the “gumption trap” – the phenomenon of knowing what needs to be done, but lacking the motivation to do it<br>
+-In Zen and the Art of Motorcycle Maintenance, Robert Persig talks about the “gumption trap” > the phenomenon of knowing what needs to be done, but lacking the motivation to do it<br>
 -One way we can overcome getting stuck in the "gumption trap" is to walk away from the task and come back when you're feeling more inspired<br>
 
 ### Effort
