@@ -8,40 +8,40 @@ Markdown is a method of styling text on the web. Here are some examples of how w
   * Creating Lists
     
     
-### Syntax
-#### Headers 
-# This is an "<h1>" tag
-## This is an "<h2>" tag
-###### This is an "<h6>" tag
+## Syntax
+### Headers 
+# This is an h1 tag
+## This is an h2 tag
+###### This is an h6 tag
   
-#### Lists
-##### Unordered
+### Lists
+#### Unordered
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
   
-##### Ordered
+#### Ordered
 1. Item 1
 1. Item 2
 1. Item 3
    1. Item 3a
    1. Item 3b
 
-#### Images
+### Images
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
   
-#### Links
+### Links
 automatic!
 [GitHub](http://github.com)
 
-#### Block Quotes
+### Block Quotes
 As Jesus Christ said:
 > As a man thinketh in his heart
 > So Shall Be
   
-####Inline Code
+### Inline Code
 I think you should use an
 `<addr>` element here instead.
   
