@@ -29,7 +29,7 @@ Markdown is a method of styling text on the web. Here are some examples of how w
    1. Item 3b
 
 ### Images
-[![GitHub Logo](/images/logo.png)]
+[[![GitHub Logo](/images/logo.png)]
 [Format: ![Alt Text](url)]
   
 ### Links
