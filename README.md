@@ -1,8 +1,8 @@
 # Growth Mindset Notes
 insert notes here
 
-##Heading
+## Heading
 more notes
 
-###Sub-heading
+### Sub-heading
 even more notes
