@@ -10,9 +10,9 @@ Markdown is a method of styling text on the web. Here are some examples of how w
     
 ## Syntax
 ### Headers 
-[#] This is an h1 tag
-[##] This is an h2 tag
-[######] This is an h6 tag
+[#] This is an h1 tag <br>
+[##] This is an h2 tag <br>
+[######] This is an h6 tag </br>
   
 ### Lists
 #### Unordered
