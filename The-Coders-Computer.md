@@ -1,4 +1,4 @@
-# Choosing A Text Editor #
+## Choosing A Text Editor ##
 
 ## What Is A Text Editor? ##
 A text editor is an important developer tool which allows you to write and modify code
@@ -17,3 +17,8 @@ What features are important in a text editor?
 3. **Themes:** Allow you to customize the appearance of your page by giving you the option to select a colors for the background of your text editor and to choose the series of colors in your text
 4. **Extensions:** Optimize your experience by allowing you to accomplish more with mininmal effort. Extensions act like plug-ins for your text editor
 
+## The Command Line ##
+
+The command line is a interface system where you can enter commands and recieve feedback to those commands.
+
+## The Shell ## 
