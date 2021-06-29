@@ -1,4 +1,4 @@
-## Choosing A Text Editor ##
+# The Coder's Computer #
 
 ## What Is A Text Editor? ##
 A text editor is an important developer tool which allows you to write and modify code
@@ -19,6 +19,12 @@ What features are important in a text editor?
 
 ## The Command Line ##
 
-The command line is a interface system where you can enter commands and recieve feedback to those commands.
+The command line (or terminal) is a interface system where you can enter commands and recieve feedback to those commands.
 
-## The Shell ## 
+## The Shell, Bash ## 
+
+The shell is a component within the terminal that is part of the operating system which defines how the terminal behaves and executes commands for you. Bash (Bourne Again Shell) is the most common shell. You can use the **echo** command to display a system variable stating your current shell.
+
+## Shortcuts ##
+* The 'up' and 'down' arrow keys can be used to fetch commands from your history
+* To edit these commands, the 'left' and 'right' arrow keys can be used to move the cursor where you want
