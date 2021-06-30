@@ -9,3 +9,5 @@ Hello! My name is Skye McCullough. I am a Jill of all trades, master of none. I 
 * [Markdown](https://large-hadron-collider901.github.io/Reading-Notes/Markdown)
 * [Growth-Mindset](https://large-hadron-collider901.github.io/Reading-Notes/GrowthMindset)
 * [The-Coders-Computer](https://large-hadron-collider901.github.io/Reading-Notes/TheCodersComputer) 
+* [Structuring-Pages-With-HTML](https://large-hadron-collider901.github.io/Reading-Notes/StructuringWebPagesWithHTML)
+* [Revisions-And-The-Cloud](https://large-hadron-collider901.github.io/Reading-Notes/RevisionsAndTheCloud)
