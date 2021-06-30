@@ -23,4 +23,28 @@ Next we have declarations which are property and value pairs inside curly bracke
 
  **inidvidual property pages on MDN for quick reference**
 
- 
+ Three ways to insert CSS
+
+ * Internal
+ * External
+ * Inline
+
+ ### Internal CSS Examples
+
+ <style
+    h1 {   
+        color: yellow;
+        text-align: right;
+  }>
+  </style>
+
+  ### External CSS ##
+  It requires a link to some style.css file
+
+  <link rel="stylesheet" href="style.css">
+
+  ### Inline CSS ###
+
+  In the html line dirrectly
+
+  <p style="color: red; text-align:center">
