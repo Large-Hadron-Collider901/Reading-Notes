@@ -7,9 +7,9 @@
 * JS Allows you to implement complex things on web pages
 * Add interactive features to your website 
 *Here are some examples of what JS can do:<br>
-   </br> -games <br>
-    </br> -dynamic styling effects <br>
-   </br> - animation
+   -games <br>
+   -dynamic styling effects <br>
+   -animation <br>git 
 * An Object = data structure containing data and instructions for working with the data
 * A Class = defines an object's characteristics, consists of an objects properties and methods
 
@@ -31,5 +31,5 @@
 * Sometimes its called "ternary" because the operator has three operands
 <br>
 The syntax is:
-//let result = condition ? value1 : value2;</br>
+//let result = condition ? value1 : value2;
 * The condition is evaluated: if it's truthy then value1 is returned otherwise, value2
