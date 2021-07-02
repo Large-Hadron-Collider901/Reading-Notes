@@ -1,4 +1,4 @@
-## What is CSS?##
+## What is CSS?
 
 CSS is a language which is responsible for the style, layout, and other presentation features of a document
 Here are some examples of how CSS can be used:
