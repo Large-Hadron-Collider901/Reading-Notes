@@ -4,79 +4,32 @@
 
 * JS is best known as a scripting language for web pages although it has many other uses as well
 * JS is **Prototype-based programming** which means this type of style allows the creation of an object without first defining it's class 
-    - Object = data structure containing data and instructions for working with the data
-    - Class = defines an object's characteristics, consists of an objects properties and methods
-* Allows you to implement complex things on web pages
+* JS Allows you to implement complex things on web pages
 * Add interactive features to your website 
-*Here are some examples of what JS can do:
-    -games
-    -dynamic styling effects
-    - animation
+*Here are some examples of what JS can do:<br>
+   </br> -games <br>
+    </br> -dynamic styling effects <br>
+   </br> - animation
+* An Object = data structure containing data and instructions for working with the data
+* A Class = defines an object's characteristics, consists of an objects properties and methods
 
 
+## Prompting The User:
 
+* An **alert** shows a message and waits for the user to press ok. The window with this messafe is called a *modal window* 
+* A **prompt** accepts two arguments, it shows a modal window with a text message, an input field for the visitor, and the buttons OK/cancel
+* A **title** is the text to show the visitor
+* **Default** is an optional second parameter, the initial value for the input field
+* The text that a visitor types into the prompt field is called a **result**
+* **Null** is the result we get if the visitor cancels the input
+* The function **confirm** shows a modal window with a question and two buttons: OK and Cancel
+* The result is **true** if OK  is pressed and false otherwise
 
+## Conditionals:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-console.log("Hello World"); 
-console.log("Skye")
-
-* variable is a container that stores data in javascript
-
-var x;//variable declaration
-x = 20;//variable assignment
-
-console.log(x);//prints out the value stored in x
-
-var myNaifme = "Skye";
-
-console.log(myName);
-
-var myage = 24;
-
-var userage = prompt("Enter your age here");
-
-var myage = 24,
-
-console.log(userAge);
-
-if (conditional statement){
-    add code here
-}
-
-if (userAge <= 10){
-    alert("You need parental permission to use this website")
-}
-
-
-if(userName == "Charlie"){
-   var userName = prompt ("What is your name?);
-   if(userName == "Charlie"){
-       alert("Good Luck Charlie");
-   }
-
-   document.write("Welcome ")
+* The conditional operator is represented by (?)
+* Sometimes its called "ternary" because the operator has three operands
+<br>
+The syntax is:
+//let result = condition ? value1 : value2;</br>
+* The condition is evaluated: if it's truthy then value1 is returned otherwise, value2
