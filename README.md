@@ -13,4 +13,5 @@ Hello! My name is Skye McCullough. I am a Jill of all trades, master of none. I 
 * [Revisions-And-The-Cloud](https://large-hadron-collider901.github.io/Reading-Notes/RevisionsAndTheCloud)
 * [Design-Web-Pages-With-CSS](https://large-hadron-collider901.github.io/Reading-Notes/DesignWebPagesWithCSS)
 * [Dynamic-Web-Pages-With-Javascript](https://large-hadron-collider901.github.io/Reading-Notes/DynamicWebPagesWithJavascript)
+* [Programming-With-JavaScript](https://large-hadron-collider901.github.io/Reading-Notes/ProgrammingWithJavaScript)
 * [Operators-And-Loops](https://large-hadron-collider901.github.io/Reading-Notes/OperatorsAndLoops)
