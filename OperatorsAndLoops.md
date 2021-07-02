@@ -85,3 +85,33 @@ else if (userAge > 15);{
 else{
   alert("You are between 12 and 15");
 }
+
+//Logical operators
+// && (and) || (or) !(not)
+
+//The && returns true if both operands are true otherwise returns false
+//The || operator returns true if one operand is true otherwise returns false
+//The ! operator returns true if the operand is false otherwise returns false
+
+var sleepy = true;
+var hungry = false;
+
+if(sleepy&&hungry){
+  alert("You are sleepy and hungry!");
+
+}
+
+if (sleepy||hungry){
+  alert("You are sleepy or hungry!");
+}
+
+if(!sleepy){
+  alert("You are not sleepy");
+}
+
+if(!hungry)[
+  alert(You are not hungry");
+]
+
+//the else if statement runs only if the if statement is false
+
