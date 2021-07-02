@@ -22,3 +22,66 @@ ex:  for ([initialExpression]; [conditionExpression]; [incrementExpression])
 * for...in statement
 * for...of statement
 
+//Operators in Use
+
+//+,-,/,%
+
+//multiplication uses the (*) symbol
+//division used the (/) symbol
+
+console.log(3 * 8);
+console.log(4 / 2);
+console.log(2 / 4);
+console.log (3 + 8);
+
+
+//modulo returns the remainder of a division operation
+
+console.log(5 % 4);
+
+//The comparison operators
+// <,><=,>=,==,!=,===,!==
+
+console.log(3 < 5)>);
+
+var userAge = prompt("Enter your age");
+
+console.log(userAge < 15);)
+
+
+if (userAge < 15){
+  alert("You need parental permission to use this site!");
+}
+
+//If user enters "15" they will not be alerted
+
+if (userAge >= 15){
+  alert("You are allowed to use this site!");
+}
+
+
+console.log (3==="3");
+
+console.log(3 !== "3");
+//in order to be stricly equal, types and values must be the same
+//in order to be strictly not equal, one of them must be different
+
+
+if(userAge < 12){
+    if(userAge > 5) {
+      alert("You are between 6 and 11 inclusive");
+ }
+else{
+  alert("You are younger than 12 and younger than 6");
+  }
+}
+else{
+  alert("You are 12 or older than 12);
+  }
+}
+else if (userAge > 15);{
+  alert("You are older than 15");
+}
+else{
+  alert("You are between 12 and 15");
+}
