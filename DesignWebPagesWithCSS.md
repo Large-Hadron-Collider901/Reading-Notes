@@ -7,7 +7,7 @@ Here are some examples of how CSS can be used:
 * Animation
 
 CSS is a rule-based language
--define rules specifying styles yoiu want to apply to elements or groups of elements
+-define rules specifying styles you want to apply to elements or groups of elements
 
 The rule opens with a selector that selects the HTML element it is going to style
 
@@ -21,7 +21,7 @@ Next we have declarations which are property and value pairs inside curly bracke
 
  }
 
- **inidvidual property pages on MDN for quick reference**
+ **individual property pages on MDN for quick reference**
 
  Three ways to insert CSS
 
@@ -45,6 +45,6 @@ Next we have declarations which are property and value pairs inside curly bracke
 
   ### Inline CSS ###
 
-  In the html line dirrectly
+  In the html line directly
 
   <p style="color: red; text-align:center">

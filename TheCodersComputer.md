@@ -33,10 +33,10 @@
             <li><strong>Code Completion:</strong> Saves <em>a lot</em> of time by displaying suggestions as you type and by closing any tags, brackets, or quotations for you when you open them</li>
             <li><strong>Syntax Highlighting:</strong> Organizes your text and makes it easier to read by colorizing the text</li>
             <li><strong>Themes:</strong> Allow you to customize the appearance of your page by giving you the option to select a colors for the background of your text editor and to choose the series of colors in your text</li>
-            <li><strong>Extensions:</strong> Optimize your experience by allowing you to accomplish more with mininmal effort. Extensions act like plug-ins for your text editor</li>
+            <li><strong>Extensions:</strong> Optimize your experience by allowing you to accomplish more with minimal effort. Extensions act like plug-ins for your text editor</li>
         </ol>
         <h2 id="the-command-line">The Command Line</h2>
-        <p>The command line (or terminal) is a interface system where you can enter commands and recieve feedback to those commands.</p>
+        <p>The command line (or terminal) is a interface system where you can enter commands and receive feedback to those commands.</p>
         <h2 id="the-shell-bash">The Shell, Bash</h2>
         <p>The shell is a component within the terminal that is part of the operating system which defines how the terminal behaves and executes commands for you. Bash (Bourne Again Shell) is the most common shell. You can use the <strong>echo</strong> command to display a system variable stating your current shell.</p>
         <h2 id="shortcuts">Shortcuts</h2>

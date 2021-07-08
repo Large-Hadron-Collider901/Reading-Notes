@@ -19,4 +19,4 @@ Git eliminates the need to fetch information from the server and allows you to w
 Git tracks all changes applied to any file or directory and will also detect file corruption or loss of information in transit
 
 **Loss of Data**
-Through the use of snapshots, Git greatly reduces the possibility of irreversable damage to files including lost data.
+Through the use of snapshots, Git greatly reduces the possibility of irreversible damage to files including lost data.

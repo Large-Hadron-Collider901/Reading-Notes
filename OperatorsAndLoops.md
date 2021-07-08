@@ -3,7 +3,7 @@
 Loops are a fast way to do something repeatedly. For example in a game where you tell someone to take X steps in one direction and Y steps in another could be expressed as a loop <br>
 
 ex: for (let step = 0; step <5; step++> { 
-    //Run 5 imes, with values of step 0 through 4
+    //Run 5 times, with values of step 0 through 4
     console.log('Walking east one step');
 }
 </br>
@@ -63,7 +63,7 @@ if (userAge >= 15){
 console.log (3==="3");
 
 console.log(3 !== "3");
-//in order to be stricly equal, types and values must be the same
+//in order to be strictly equal, types and values must be the same
 //in order to be strictly not equal, one of them must be different
 
 

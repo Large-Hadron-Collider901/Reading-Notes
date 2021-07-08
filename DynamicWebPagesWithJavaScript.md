@@ -16,7 +16,7 @@
 
 ## Prompting The User:
 
-* An **alert** shows a message and waits for the user to press ok. The window with this messafe is called a *modal window* 
+* An **alert** shows a message and waits for the user to press ok. The window with this message is called a *modal window* 
 * A **prompt** accepts two arguments, it shows a modal window with a text message, an input field for the visitor, and the buttons OK/cancel
 * A **title** is the text to show the visitor
 * **Default** is an optional second parameter, the initial value for the input field

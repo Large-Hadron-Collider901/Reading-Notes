@@ -29,7 +29,7 @@ ex: var status = (age >=18) ? 'adult' : 'minor';</br> //This statement assigns t
  A function declaration consists of:
  * The function keyword followed by--
  * The name of the function
- * A list of parameters to the function, enclosed in paranthesis and separated by commas
+ * A list of parameters to the function, enclosed in parenthesis and separated by commas
  * The JS statements that define the function enclosed in curly brackets
 
 <br>ex: the following code defines a simple function named square

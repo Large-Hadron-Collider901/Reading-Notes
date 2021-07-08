@@ -31,7 +31,7 @@
 -Asking yourself the following questions is a great way to reflect on all aspects of our day and come up with strategies to create more good days in the future:<br>
      1) What was the best part of the day?<br>
      2) What went wrong, and how can I make sure it doesn’t happen again<br>
--Asking yourslf a variation of these questions can help you to proccess critisizm from co workers:<br>
+-Asking yourself a variation of these questions can help you to process criticism from co workers:<br>
      1) Which aspects of my work am I most proud of?<br>
      2) What can I do to improve the aspects I’m less proud of?<br>
      

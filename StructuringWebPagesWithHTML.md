@@ -22,7 +22,7 @@
 
 * Elements are used to enclose or wrap different parts of the content to make it appear a certain way
 
-*Parts of an elememt*
+*Parts of an element*
 * Opening tag: name of the element wrapped in opening and closing angle brackets
 * Closing tag: same as the opening tag except it includes a forward slash before the element
 * Content: The content of the element which is text
