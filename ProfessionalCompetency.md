@@ -11,8 +11,13 @@
 
 ## Top Three Weaknesses
 
-* Speaking- When it comes to writing, I am rather proficient
+* Speaking- Although I am a decent writer, my speaking skills could definitley use a lot of improvement. Usually, if I take the time to practice speaking ahead of time I tend perform better. However, I also need to learn some coping mechanisms for calming my nerves while speaking so that I can grow in that area. If I can find ways to reduce my anxiety related to professional speaking, I believe I could really enhance those skills.
 
+* Dependability and Reliability- This is another area that I need improvement in due to the fact that I sometimes struggle to complete projects in a timely manner. Whenever I am overwhelmed  because i'm stuck on a problem, I tend to tell myself I can figure it out on my own. This makes he situation even more stressful as time starts to close in on me. One way I can improve my dependability and reliability is to schedule tutoring sessions so that I don't waste so much time being stuck on a problem. That way I can address anything im not understanding right away after class and I will have more time to actually work on the assignment as well as turn it in on time.
 
-
-
+* Planning and Estimating- An additional area that I see room for growth in are my planning and estimating abilities. I have a habit of underestimating the amount of time it will take me to complete a task. This is usually because I typically assume that I wont run into any complications that will cause delays, which can really be a detrimental mistake when it comes to planning. Here are some examples of how I can improve my planning and estimating skills:<br>
+-Identify critical tasks <br>
+-Arrange tasks in a logical order <br>
+-Establish priorities systematically differentiating between urgent, important and unimportant tasks <br>
+-Use a "to do" list, task plan, or similar planning devices to note action plans,<br>
+-Monitor and adjust priorities and eliminate tasks on an on-going basis
