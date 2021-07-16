@@ -4,15 +4,35 @@ Hello! My name is Skye McCullough. I am a Jill of all trades, master of none.(Ye
 
 
 # Table Of Contents
-* [My-Github-Reading-Notes](https://large-hadron-collider901.github.io/Reading-Notes/)
-* [Professional-Competency-Self-Assessment](https://large-hadron-collider901.github.io/Reading-Notes/ProfessionalCompetency)
-* [Markdown](https://large-hadron-collider901.github.io/Reading-Notes/Markdown)
-* [Growth-Mindset](https://large-hadron-collider901.github.io/Reading-Notes/GrowthMindset)
-* [The-Coders-Computer](https://large-hadron-collider901.github.io/Reading-Notes/TheCodersComputer) 
-* [Structuring-Pages-With-HTML](https://large-hadron-collider901.github.io/Reading-Notes/StructuringWebPagesWithHTML)
-* [Revisions-And-The-Cloud](https://large-hadron-collider901.github.io/Reading-Notes/RevisionsAndTheCloud)
-* [Design-Web-Pages-With-CSS](https://large-hadron-collider901.github.io/Reading-Notes/DesignWebPagesWithCSS)
-* [Dynamic-Web-Pages-With-Javascript](https://large-hadron-collider901.github.io/Reading-Notes/DynamicWebPagesWithJavaScript)
-* [Programming-With-JavaScript](https://large-hadron-collider901.github.io/Reading-Notes/ProgrammingWithJavaScript)
-* [Operators-And-Loops](https://large-hadron-collider901.github.io/Reading-Notes/OperatorsAndLoops)
-* [My-Webpage](https://large-hadron-collider901.github.io/My-Webpage/)
+
+## Code 102 Reading Notes:
+1. [My-Github-Reading-Notes](https://large-hadron-collider901.github.io/Reading-Notes/)
+2. [Professional-Competency-Self-Assessment](https://large-hadron-collider901.github.io/Reading-Notes/ProfessionalCompetency)
+3. [Markdown](https://large-hadron-collider901.github.io/Reading-Notes/Markdown)
+4. [Growth-Mindset](https://large-hadron-collider901.github.io/Reading-Notes/GrowthMindset)
+5. [The-Coders-Computer](https://large-hadron-collider901.github.io/Reading-Notes/TheCodersComputer) 
+6. [Structuring-Pages-With-HTML](https://large-hadron-collider901.github.io/Reading-Notes/StructuringWebPagesWithHTML)
+7. [Revisions-And-The-Cloud](https://large-hadron-collider901.github.io/Reading-Notes/RevisionsAndTheCloud)
+8. [Design-Web-Pages-With-CSS](https://large-hadron-collider901.github.io/Reading-Notes/DesignWebPagesWithCSS)
+9. [Dynamic-Web-Pages-With-Javascript](https://large-hadron-collider901.github.io/Reading-Notes/DynamicWebPagesWithJavaScript)
+10. [Programming-With-JavaScript](https://large-hadron-collider901.github.io/Reading-Notes/ProgrammingWithJavaScript)
+11. [Operators-And-Loops](https://large-hadron-collider901.github.io/Reading-Notes/OperatorsAndLoops)
+12. [My-Webpage](https://large-hadron-collider901.github.io/My-Webpage/)
+
+## Code 201 Reading Notes:
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14a.
+14b. 
+15.
