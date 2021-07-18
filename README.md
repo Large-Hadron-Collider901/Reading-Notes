@@ -1,5 +1,12 @@
 # About me 
-Hello! My name is Skye McCullough. I am a Jill of all trades, master of none.(Yet!) I have worked a variety of different types of jobs in all kinds of settings. Some of my favorite work related experiences include working on a traveling conservation crew, serving at a popular fine dining restaurant/hotel/bar/music venue, and picking black berries! I also have some call center experience where I learned a variety of skills related to customer service, sales, and retention. At this time, I am not currently working, as I would really like to focus most of my energy on my education! In my free time, I am usually working on creating items to sell in my Etsy shop, playing music, listening to music, drawing, or studying. I am currently training to become a software developer at The Code Collective Academy in Memphis, TN. Here are some of the subjects I am studying and projects I am working on:
+Hello, my name is Skye McCullough! I am a student at The Code Collective Academy, 
+entrepreneur, and small business owner. I am breaking into the tech industry from a 
+non-traditional background and training to become a software developer! I have a wide
+variety of interests such as playing guitar :guitar:, singing :microphone:, gardening :herb:, 
+and jewelry making :ring:. I love to design and create just about anything and I am working
+on creating an Etsy shop where I can market some of those creations. During the nine month 
+code school course, I will be learning all the fundamentals of becoming an entry-level software 
+developer and this is where you can find all of my notes and projects!
 <br>
 
 
