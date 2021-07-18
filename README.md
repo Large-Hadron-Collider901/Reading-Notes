@@ -4,7 +4,7 @@ entrepreneur, and small business owner. I am breaking into the tech industry fro
 non-traditional background and training to become a software developer! I have a wide
 variety of interests such as playing guitar :guitar:, singing :microphone:, gardening :herb:, 
 and jewelry making :ring:. I love to design and create just about anything and I am working
-on creating an Etsy shop where I can market some of those creations. During the nine month 
+on creating an Etsy shop where I can share some of my creations. During the nine month 
 code school course, I will be learning all the fundamentals of becoming an entry-level software 
 developer and this is where you can find all of my notes and projects!
 <br>
