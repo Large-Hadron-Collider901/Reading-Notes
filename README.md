@@ -1,18 +1,19 @@
-# About me 
+# **About me**
 Hello, my name is Skye McCullough! I am a student at The Code Collective Academy, 
 entrepreneur, and small business owner. I am breaking into the tech industry from a 
 non-traditional background and training to become a software developer! I have a wide
-variety of interests such as playing guitar :guitar:, singing :microphone:, gardening :herb:, 
-and jewelry making :ring:. I love to design and create just about anything and I am working
-on creating an Etsy shop where I can share some of my creations. During the nine month 
-code school course, I will be learning all the fundamentals of becoming an entry-level software 
-developer and this is where you can find all of my notes and projects!
+variety of interests such as playing guitar, singing, gardening and jewelry making.
+I love to design and create just about *everything* and I am working on building an 
+online shop on Etsy where I can share some of those creations with you. Throughout 
+the code school course, I will be learning about all of the fundamentals of becoming
+an entry-level software developer and this is where you can find all of my notes and 
+projects!
 <br>
 
 
-# Table Of Contents
+# **Table Of Contents**
 
-## Code 102 Reading Notes:
+## Code 102 Reading Notes:**
 1. [My-Github-Reading-Notes](https://large-hadron-collider901.github.io/Reading-Notes/)
 2. [Professional-Competency-Self-Assessment](https://large-hadron-collider901.github.io/Reading-Notes/Code-102-Reading-Notes/ProfessionalCompetency)
 3. [Markdown](https://large-hadron-collider901.github.io/Reading-Notes/Code-102-Reading-Notes/Markdown)
