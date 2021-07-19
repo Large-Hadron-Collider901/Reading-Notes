@@ -13,7 +13,7 @@ projects!
 
 # **Table Of Contents**
 
-## Code 102 Reading Notes:**
+## Code 102 Reading Notes:
 1. [My-Github-Reading-Notes](https://large-hadron-collider901.github.io/Reading-Notes/)
 2. [Professional-Competency-Self-Assessment](https://large-hadron-collider901.github.io/Reading-Notes/Code-102-Reading-Notes/ProfessionalCompetency)
 3. [Markdown](https://large-hadron-collider901.github.io/Reading-Notes/Code-102-Reading-Notes/Markdown)
