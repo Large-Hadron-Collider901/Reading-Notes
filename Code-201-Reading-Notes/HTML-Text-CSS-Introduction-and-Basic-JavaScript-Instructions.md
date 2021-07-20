@@ -97,10 +97,10 @@
       color: black; }
    </style>
 
-<br>
+<br />
 
 ## Chapter 2: Basic JavaScript Instructions - Vocabulary List
-#### Keywords, Phrases, and Definitions From Chapter 2 <br>
+#### Keywords, Phrases, and Definitions From Chapter 2 <br />
 
 * **Script:** A series of instructions that a computer can follow one-by-one
 
@@ -146,10 +146,10 @@
 * **String Operators:** Combine two strings. Ex- greeting = 'Hi' + 'Molly';
 * **Comparison Operators:** Compare two values and return true or false.
 * **Logical Operators:** Combine expressions and return true or false. Ex- buy = (5 > >); 
-<br>
+<br />
 
-## Decisions & Loops - Synopsis
-#### A Summary Of What I Learned <br>
+## Decisions & Loops - Synopsis <br />
+#### A Summary Of What I Learned <br />
 
     Today in the Code Collective Academy, one of our assignments included reading: Decisions and Loops" from our textbook which is titled: "JavaScript & Jquery - Interactive Front-End Web Development" written by Jon Duckett. In this brief summary, I will be sharing with you some of the key concepts covered in the chapter, as well as what I learned from the content.
    
