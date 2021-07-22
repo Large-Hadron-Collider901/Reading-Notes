@@ -6,10 +6,12 @@
 
 Here is a fill in the blank worksheet I created from the content I read in Chapter 2: _HTML Text_ in the textbook _HTML & CSS Design And Build Websites_ By John Duckett. You can access the worksheet [here](https://docs.google.com/document/d/1G8jiRYhfsWZKJDVyVo6xEhdZboIX6wdHBF6qEBFDk5g/edit?usp=sharing)
 <br />
+````
 ![Chapter2-HTML-Text-Worksheet-1](https://i.ibb.co/LnV7PbL/Chapter2-HTML-Text-Worksheet-1.png)
 ![Chapter2-HTML-Text-Worksheet-2](https://i.ibb.co/QCrvwfq/Chapter2-HTML-Text-Worksheet-2.png)
 ![Chapter2-HTML-Text-Worksheet-3](https://i.ibb.co/NsbDYTZ/Chapter2-HTML-Text-Worksheet-3.png)
 
+````
 <br />
 
 ## Introducing CSS - Vocabulary List
