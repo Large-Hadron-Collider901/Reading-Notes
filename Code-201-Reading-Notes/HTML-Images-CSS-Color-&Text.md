@@ -3,23 +3,21 @@
 ## Adding Images
 
 ```
-<img>- to add an image to the page, you will need to use
-an <img> element. This is an empty tag, which means
-there is no closing tag
-<br />
+<img>- this is the element that you will use to
+add a image to a page
 
 src- another component of the image element is src,
 which tells the browser where to get the image file.
-<br />
+
 
 alt- this is where you can provide a text description
 of the image which describes the image if you can not
 see it
-<br />
 
-* title- you can also use the title attribute to the 
+
+title- you can also use the title attribute to the 
 <img> element if you want to provide additional information
-about the image. Most browsers will display this text
+about the image. most browsers will display this text
 when the user hovers over the image
 ```
 Below, you can see example of the syntax that is used to
