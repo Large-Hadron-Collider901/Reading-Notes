@@ -61,9 +61,10 @@ However, if we wanted to save a significant amount of time, we could streamline 
 * Inside the constructor function, we can define the properties that we want each object (in this case, botanic garden) to inherit 
 * Along with properties, functions can also be inherited by each object instance. There are two ways we can achieve this:
 
+```
 1. In the constructor function itself 
 Example:
-```
+
 function Garden(sections, date_opened, admission_fee) {
    this.sections = sections,
    this.date_opened = date_opened,
@@ -75,12 +76,12 @@ function Garden(sections, date_opened, admission_fee) {
 garden1.welcomeVisitor 
 
 ```
-OR
 
-
-2. On the object prototype (preferred method)
 
 ```
+2. On the object prototype (preferred method)
+
+
 Garden.prototype.welcomeVisitor = function() {
    return "Thank you for visiting our garden today!"
 }
