@@ -41,11 +41,11 @@ Here's an example of how a table is structured in HTML:
  </tfoot>
  </table>
 ```
----
+
 # Domain Modeling
 * A domain model is a communication tool designed to help stakeholders gain a better understanding of a problem domain
 * The model describes various aspects of a specific problem using vocabulary that can be understood by both technical and business teams.
----
+
 
 # JavaScript Constructor Functions
 
@@ -72,10 +72,10 @@ function Garden(sections, date_opened, admission_fee) {
        return "Thank you for visiting our garden today!"
    }
 } 
-garden1.welcomeVisitor // "Thank you for visiting our garden today!"
+garden1.welcomeVisitor 
 
 ```
-**OR**
+OR
 
 
 2. On the object prototype (preferred method)
