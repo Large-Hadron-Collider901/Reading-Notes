@@ -33,7 +33,7 @@ projects!
 3. [HTML-Links-CSS-Layout-JS-Functions](https://large-hadron-collider901.github.io/Reading-Notes/Code-201-Reading-Notes/HTML-Links-CSS-Layout-JS-Functions)
 4. [HTML-Images-CSS-Color-&Text.md](https://large-hadron-collider901.github.io/Reading-Notes/Code-201-Reading-Notes/HTML-Images-CSS-Color-&Text)
 5. [JS-Object-Literals-and-The-DOM.md](https://large-hadron-collider901.github.io/Reading-Notes/Code-201-Reading-Notes/JS-Object-Literals-and-The-DOM)
-6. [HTML-Tables-JS-Constructor-Functions.md](https://large-hadron-collider901.github.io/Reading-Notes/Code-201-Reading-Notes/HTML-Tables-JS-Constructor-Functions)
+6. [HTML-Tables-JS-Constructor-Functions.md](https://large-hadron-collider901.github.io/Reading-Notes/Code-201-Reading-Notes/HTML-Tables-JS-Constructor-Functions-and-Domain-Modeling)
 7. [More-CSS-Layout](https://large-hadron-collider901.github.io/Reading-Notes/Code-201-Reading-Notes/More-CSS-Layout)
 8. [Forms-and-JS-Events](https://large-hadron-collider901.github.io/Reading-Notes/Code-201-Reading-Notes/Forms-and-JS-Events)
 9. [JS-Debugging](https://large-hadron-collider901.github.io/Reading-Notes/Code-201-Reading-Notes/JS-Debugging)
