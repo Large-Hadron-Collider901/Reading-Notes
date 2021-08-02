@@ -57,7 +57,7 @@ However, if we wanted to save a significant amount of time, we could streamline 
 
 * Constructor functions are templates for creating objects
 * We can use it to create object instances that share similar properties
-* The process of creating constructor functions is very similar to the way regular functions are created, except the first letter is 
+* The process of creating constructor functions is very similar to the way regular functions are created, except the first letter is capitalized
 * Inside the constructor function, we can define the properties that we want each object (in this case, botanic garden) to inherit 
 * Along with properties, functions can also be inherited by each object instance. There are two ways we can achieve this:
 
