@@ -30,10 +30,10 @@ Here is how we can narrow down the area where the problem seems to be:
 * The line where it became a problem
 * The type of error
 
-2. **Check how far the script is running**
+2. **Check how far the script is running** <br />
 Use tools to write messages to the console so we can tell how far our script has executed.
 
-3. **Use breakpoints where things are going wrong**
+3. **Use breakpoints where things are going wrong** <br />
 They let us pause execution and inspect the values that are stored in variables.
 
 #### *WHAT* IS THE PROBLEM?
