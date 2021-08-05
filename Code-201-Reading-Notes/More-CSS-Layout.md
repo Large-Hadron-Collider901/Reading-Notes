@@ -27,5 +27,5 @@ Here are some online resources for finding some great CSS frameworks:
 * www.960.gs
 * www.blueprintcss.org
 * www.lessframework.com
-* developer.yahoo.com/yui/grids/
+
 
