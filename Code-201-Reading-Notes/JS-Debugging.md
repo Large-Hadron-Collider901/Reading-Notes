@@ -39,7 +39,7 @@ They let us pause execution and inspect the values that are stored in variables.
 #### *WHAT* IS THE PROBLEM?
 Here is how we can look for clues to find the *actual* line of code that is causing the error:
 
-1. **Check the values of our variables around our breakpoints**
+1. **Check the values of our variables around our breakpoints** <br />
 When we have set breakpoints, we can check the variables around them to see if they have the values we expect them to. *If not*, we need to look earlier in the script.
 
 2. **Break down/break out parts of the code to test smaller pieces for functionality**
