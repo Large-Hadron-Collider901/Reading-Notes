@@ -1,6 +1,6 @@
 # Local Storage
 
-## Introduciong HTML5 Storage
+## Introducing HTML5 Storage
 
 * HTML5 Storage allows webpages to save named key/value pairs within the client web browser.
 * This data is saved even after the browser is closed.
