@@ -12,11 +12,11 @@
 <canvas id="tutorial" width="150" height="150"></canvas>
 
 * The canvas is completely transparent by default, but we can apply styling rules to customize it.
-* To get the rendering context and it's drawing functions we use a method of the `<canvas>` element called `getContext()`  For example: <br />
-
+* To get the rendering context and it's drawing functions we use a method of the `<canvas>` element called `getContext()`  For example: 
+```
 let canvas = document.getElementById('tutorial'); // retrieves the node in the DOM representing the <canvas> element by // calling document.getElementById() method
 let ctx = canvas.getContext('2d'); // access the drawing context using its getContext() method.
-
+```
 ## Drawing Shapes With Canvas 
 
 * `<canvas>` allows us to make two primitive shapes: rectangles and paths (lists of points connected by lines) but we can make other shapes as well by combining one or more paths.
@@ -24,9 +24,9 @@ let ctx = canvas.getContext('2d'); // access the drawing context using its getCo
     1. `fillRect(x, y, width, height)` // draws a filled rectangle.
     2. `strokeRect(x, y, width, height)` // draws a rectangle outline.
     3. `clearRect(x, y, width, height)` // clears the specified rectangular area, making it fully transparent.
-* Here is an example of drawing a rectangular shape using `<canvas>`: <br />
+* Here is an example of drawing a rectangular shape using `<canvas>`: 
 
-
+```
 function draw() {
   var canvas = document.getElementById('canvas');
   if (canvas.getContext) {
@@ -37,7 +37,7 @@ function draw() {
     ctx.strokeRect(50, 50, 50, 50);
   }
 }
-
+```
 ## Drawing Paths
 * Paths are a list of points, connected by segments of lines.
 * There are 3 steps involved in making shapes with paths:
@@ -86,8 +86,8 @@ function draw() {
 * `repeat-x` // tiles the image horizontally but not vertically.
 * `repeat-y` // tiles the image vertically but not horizontally.
 * `no-repeat` // doesn't tile the image, used only once.
-* Here is a `createPattern` example: <br />
-
+* Here is a `createPattern` example: 
+```
 function draw() {
   var ctx = document.getElementById('canvas').getContext('2d');
 
@@ -103,7 +103,7 @@ function draw() {
 
   }
 
-
+```
 **Drawing Text** 
 
 * `fillText(text, x, y [, maxWidth])`// fills a given text at the given (x,y) position. Optionally with a
