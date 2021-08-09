@@ -7,16 +7,15 @@
     - create animations
 * By default, the size of the canvas is 300 pixels by 150 pixels. However we can customize the dimensions using width and height attributes.
 * To draw on the canvas, we use a JavScript context object that allows us to create graphics.
-* To make the canvas easier to identify in a script, we can use the id attribute. For example:
-```
+* To make the canvas easier to identify in a script, we can use the id attribute. For example: <br />
+
 <canvas id="tutorial" width="150" height="150"></canvas>
-```
+
 * The canvas is completely transparent by default, but we can apply styling rules to customize it.
-* To get the rendering context and it's drawing functions we use a method of the `<canvas>` element called `getContext()`  For example: 
-```
+* To get the rendering context and it's drawing functions we use a method of the `<canvas>` element called `getContext()`  For example: <br />
+
 let canvas = document.getElementById('tutorial'); // retrieves the node in the DOM representing the <canvas> element by // calling document.getElementById() method
 let ctx = canvas.getContext('2d'); // access the drawing context using its getContext() method.
-```
 
 ## Drawing Shapes With Canvas 
 
@@ -25,9 +24,9 @@ let ctx = canvas.getContext('2d'); // access the drawing context using its getCo
     1. `fillRect(x, y, width, height)` // draws a filled rectangle.
     2. `strokeRect(x, y, width, height)` // draws a rectangle outline.
     3. `clearRect(x, y, width, height)` // clears the specified rectangular area, making it fully transparent.
-* Here is an example of drawing a rectangular shape using `<canvas>`:
+* Here is an example of drawing a rectangular shape using `<canvas>`: <br />
 
-```
+
 function draw() {
   var canvas = document.getElementById('canvas');
   if (canvas.getContext) {
@@ -38,7 +37,7 @@ function draw() {
     ctx.strokeRect(50, 50, 50, 50);
   }
 }
-```
+
 ## Drawing Paths
 * Paths are a list of points, connected by segments of lines.
 * There are 3 steps involved in making shapes with paths:
@@ -87,8 +86,8 @@ function draw() {
 * `repeat-x` // tiles the image horizontally but not vertically.
 * `repeat-y` // tiles the image vertically but not horizontally.
 * `no-repeat` // doesn't tile the image, used only once.
-* Here is a `createPattern` example:
-```
+* Here is a `createPattern` example: <br />
+
 function draw() {
   var ctx = document.getElementById('canvas').getContext('2d');
 
@@ -104,7 +103,7 @@ function draw() {
 
   }
 
-```
+
 **Drawing Text** 
 
 * `fillText(text, x, y [, maxWidth])`// fills a given text at the given (x,y) position. Optionally with a
@@ -112,23 +111,23 @@ function draw() {
 * `strokeText(text, x, y [, maxWidth])` // strokes a given text at the given (x,y) position. Optionally with a 
    //maximum width to draw.
 
-* Here is an example using `filltext`
-```
+* Here is an example using `filltext` <br />
+
 function draw() {
   var ctx = document.getElementById('canvas').getContext('2d');
   ctx.font = '48px serif';
   ctx.fillText('Hello world', 10, 50);
 }
 
-```
-* Here's an example using `stroketext`
-```
+
+* Here's an example using `stroketext` <br />
+
 function draw() {
   var ctx = document.getElementById('canvas').getContext('2d');
   ctx.font = '48px serif';
   ctx.strokeText('Hello world', 10, 50);
 }
-```
+
 **Styling Text**
 * Here are some properties we can use to customize text:
     - `font = value` // the current text style being used when drawing text. Default font is 10px sans-serif.
@@ -151,23 +150,23 @@ function draw() {
 
  **Drawing a Line Chart**
 
- 1. For the first step we will need to add this to the body of our HTML page
+ 1. For the first step we will need to add this to the body of our HTML page: <br />
 
- ```
- <canvas id="buyers" width="600" height="400"></canvas>
- ```
+ 
+ <canvas id="buyers" width="600" height="400"></canvas> 
 
- 2. Then we need to write a script that will pull the context of our `<canvas>` element and put it in the foot of the body of our HTML page like so:
 
-```
+ 2. Then we need to write a script that will pull the context of our `<canvas>` element and put it in the foot of the body of our HTML page like so: <br />
+
+
 <script>
     let buyers = document.getElementById('buyers').getContext('2d');
     new Chart(buyers).Line(buyerData);
 </script>
-```
-3. Now we need to create our data inside the script tags, which ill be in the form of an object that contains labels for the base of our chart and datasets to describe the values on the chart. In this example, we need to add this immediately above the line that begins `var buyers=`:
 
-```
+3. Now we need to create our data inside the script tags, which ill be in the form of an object that contains labels for the base of our chart and datasets to describe the values on the chart. In this example, we need to add this immediately above the line that begins `var buyers=`: <br />
+
+
 var buyerData = {
 	labels : ["January","February","March","April","May","June"],
 	datasets : [
@@ -180,20 +179,20 @@ var buyerData = {
 		}
 	]
 }
-```
+
 
 **Drawing A Pie Chart**
 
 1. Add the canvas element.
 2. Get the context and to instantiate the chart.
 3. Supply a color and value pair for each section.
-4. After the data we will add our options, for example:
-```
+4. After the data we will add our options, for example: <br />
+
 var pieOptions = {
 	segmentShowStroke : false, // remove the stroke from the segments
 	animateScale : true // animate the scale of the pie so that it zooms out from nothing
 }
-```
+
 **Drawing A Bar Chart**
 
 1. Add the canvas element.
