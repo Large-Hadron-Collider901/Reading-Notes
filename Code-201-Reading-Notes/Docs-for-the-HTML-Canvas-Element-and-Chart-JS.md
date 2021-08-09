@@ -8,9 +8,9 @@
 * By default, the size of the canvas is 300 pixels by 150 pixels. However we can customize the dimensions using width and height attributes.
 * To draw on the canvas, we use a JavScript context object that allows us to create graphics.
 * To make the canvas easier to identify in a script, we can use the id attribute. For example: <br />
-
+```
 <canvas id="tutorial" width="150" height="150"></canvas>
-
+```
 * The canvas is completely transparent by default, but we can apply styling rules to customize it.
 * To get the rendering context and it's drawing functions we use a method of the `<canvas>` element called `getContext()`  For example: 
 ```
