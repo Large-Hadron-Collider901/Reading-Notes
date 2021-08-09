@@ -111,23 +111,23 @@ function draw() {
 * `strokeText(text, x, y [, maxWidth])` // strokes a given text at the given (x,y) position. Optionally with a 
    //maximum width to draw.
 
-* Here is an example using `filltext` <br />
-
+* Here is an example using `filltext` :
+```
 function draw() {
   var ctx = document.getElementById('canvas').getContext('2d');
   ctx.font = '48px serif';
   ctx.fillText('Hello world', 10, 50);
 }
+```
 
-
-* Here's an example using `stroketext` <br />
-
+* Here's an example using `stroketext` :
+```
 function draw() {
   var ctx = document.getElementById('canvas').getContext('2d');
   ctx.font = '48px serif';
   ctx.strokeText('Hello world', 10, 50);
 }
-
+```
 **Styling Text**
 * Here are some properties we can use to customize text:
     - `font = value` // the current text style being used when drawing text. Default font is 10px sans-serif.
@@ -156,17 +156,17 @@ function draw() {
  <canvas id="buyers" width="600" height="400"></canvas> 
 
 
- 2. Then we need to write a script that will pull the context of our `<canvas>` element and put it in the foot of the body of our HTML page like so: <br />
+ 2. Then we need to write a script that will pull the context of our `<canvas>` element and put it in the foot of the body of our HTML page like so: 
 
-
+```
 <script>
     let buyers = document.getElementById('buyers').getContext('2d');
     new Chart(buyers).Line(buyerData);
 </script>
+```
+3. Now we need to create our data inside the script tags, which ill be in the form of an object that contains labels for the base of our chart and datasets to describe the values on the chart. In this example, we need to add this immediately above the line that begins `var buyers=`: 
 
-3. Now we need to create our data inside the script tags, which ill be in the form of an object that contains labels for the base of our chart and datasets to describe the values on the chart. In this example, we need to add this immediately above the line that begins `var buyers=`: <br />
-
-
+```
 var buyerData = {
 	labels : ["January","February","March","April","May","June"],
 	datasets : [
@@ -179,20 +179,20 @@ var buyerData = {
 		}
 	]
 }
-
+```
 
 **Drawing A Pie Chart**
 
 1. Add the canvas element.
 2. Get the context and to instantiate the chart.
 3. Supply a color and value pair for each section.
-4. After the data we will add our options, for example: <br />
-
+4. After the data we will add our options, for example: 
+```
 var pieOptions = {
 	segmentShowStroke : false, // remove the stroke from the segments
 	animateScale : true // animate the scale of the pie so that it zooms out from nothing
 }
-
+```
 **Drawing A Bar Chart**
 
 1. Add the canvas element.
