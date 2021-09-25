@@ -1,1 +1,0 @@
-# Learning Journal 15
