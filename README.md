@@ -1,4 +1,4 @@
-# **About me**
+# **Welcome!**
 Hello, my name is Skye McCullough! I am a student at The Code Collective Academy, 
 entrepreneur, and small business owner. I am breaking into the tech industry from a 
 non-traditional background and training to become a software developer! I have a wide
