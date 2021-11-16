@@ -23,7 +23,7 @@
 * Names are reassigned independently - Example: `x = 23` `y = x` `x = 12` 
 
 
- [Beginners-guide-to-Big-O-Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
+*reading sources*: [Beginners-guide-to-Big-O-Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
 
 [A-friendly-intro-to-Big-O-Notation](https://www.codenewbie.org/basecs/8)
 
