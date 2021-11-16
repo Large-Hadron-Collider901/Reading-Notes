@@ -21,8 +21,15 @@
 * Names refer to values - Example: `x = 23` `print(x)` `# 23`
 * Many names can refer to one value - Example: `x = 23` `y = x`
 * Names are reassigned independently - Example: `x = 23` `y = x` `x = 12` 
-
-
+* Values live until no references - Example: `x = "hello"` `x = "world"`
+* Assignment never copies data - Example: `nums = [1,2,3]` `other = nums`
+* Mutable aliasing => 
+    - A mutable value
+    - more than one name
+    - the value changes
+    - all the names see the change
+* Immutable values can't alias - Example: immutable values = ints, floats, strings, tuples
+* "Change" is unclear - Example: ~~Changing an int~~ => **rebinding**
 *reading sources*: [Beginners-guide-to-Big-O-Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
 
 [A-friendly-intro-to-Big-O-Notation](https://www.codenewbie.org/basecs/8)
