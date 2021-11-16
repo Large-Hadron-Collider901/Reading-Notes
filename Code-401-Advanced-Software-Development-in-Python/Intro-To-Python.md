@@ -36,9 +36,9 @@
 
 * Immutable values can't alias - Example: immutable values = ints, floats, strings, tuples
 
-* "Change" is unclear - Example: ~~Changing an int~~ => **rebinding** <br />
+* "Change" is unclear - Example: ~~Changing an int~~ => **rebinding** <br>
 
-<br />
+<br>
 
 
 *reading sources*: [Beginners-guide-to-Big-O-Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
