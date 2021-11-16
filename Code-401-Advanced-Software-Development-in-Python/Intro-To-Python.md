@@ -36,7 +36,7 @@
 
 * Immutable values can't alias - Example: immutable values = ints, floats, strings, tuples
 
-* "Change" is unclear - Example: ~~Changing an int~~ => **rebinding** 
+* "Change" is unclear - Example: ~~Changing an int~~ => **rebinding** <br />
 
 <br />
 
