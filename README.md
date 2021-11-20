@@ -47,17 +47,11 @@ projects!
 ## Code 301 - Intermediate Software Development:
 
 1. [Introduction-to-React-JS-and-Components](https://large-hadron-collider901.github.io/Reading-Notes/Code-301-Intermediate-Software-Development/React-JS-Intro)
-
 2. [State-And-Props](https://large-hadron-collider901.github.io/Reading-Notes/Code-301-Intermediate-Software-Development/State-And-Props) 
-
 3. [Passing-Functions-As-Props](https://large-hadron-collider901.github.io/Reading-Notes/Code-301-Intermediate-Software-Development/Passing-Functions-As-Props)
-
 4. [React-And-Forms](https://large-hadron-collider901.github.io/Reading-Notes/Code-301-Intermediate-Software-Development/React-And-Forms)
-
 5. [Putting-It-All-Together](https://large-hadron-collider901.github.io/Reading-Notes/Code-301-Intermediate-Software-Development/Putting-It-All-Together)
-
 6. [Node-JS](https://large-hadron-collider901.github.io/Reading-Notes/Code-301-Intermediate-Software-Development/Node-JS)
-
 7. [APIs](https://large-hadron-collider901.github.io/Reading-Notes/Code-301-Intermediate-Software-Development/APIs)
 
 
