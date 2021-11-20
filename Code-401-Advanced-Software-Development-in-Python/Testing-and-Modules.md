@@ -13,7 +13,7 @@
     - Assert: after executing the code, check if the output is the same as expected
 
 
-example: 
+ex:
 
 ```
 import ZodiacDetector
