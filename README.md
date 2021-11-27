@@ -10,7 +10,6 @@ an entry-level software developer and this is where you can find all of my notes
 projects!
 <br />
 
-![Large-Hadron-Collider901's GitHub stats](https://github-readme-stats.vercel.app/api?username=Large-Hadron-Collider901&theme=dark&show_icons=true)
 # Reading Notes 
 
 ## Code 102 - Intro To Software Development:
