@@ -9,7 +9,7 @@ the code school course, I will be learning about all of the fundamentals of beco
 an entry-level software developer and this is where you can find all of my notes and 
 projects!
 <br />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Large-Hadron-Collider901&theme=tokyonight)
 # Reading Notes 
 
 ## Code 102 - Intro To Software Development:
